@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf86c056-02c7-40f8-b089-4034fc1fac09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FqZvDMqj9uR44ORv5GA8YySZu6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/Technology" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\libs\jquery" />
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\libs\fancybox" />
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\images\footer" />
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\images\focused" />
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\images\Technology" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\cloud-budget\src\images\Technology" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf86c056-02c7-40f8-b089-4034fc1fac09" name="Default Changelist" comment="" />
+      <created>1665221802687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665221802687</updated>
+      <workItem from="1665221803820" duration="10130000" />
+      <workItem from="1665825020266" duration="65000" />
+      <workItem from="1665825430682" duration="614000" />
+      <workItem from="1665826304437" duration="4985000" />
+      <workItem from="1665907695159" duration="5457000" />
+      <workItem from="1666418465565" duration="6586000" />
+      <workItem from="1666505110462" duration="837000" />
+      <workItem from="1666505968769" duration="3069000" />
+      <workItem from="1666509293401" duration="2301000" />
+      <workItem from="1667023565285" duration="6939000" />
+      <workItem from="1667109942223" duration="723000" />
+      <workItem from="1667110698536" duration="8000" />
+      <workItem from="1667110777735" duration="5788000" />
+      <workItem from="1667325220975" duration="230000" />
+      <workItem from="1667325720722" duration="720000" />
+      <workItem from="1667544315962" duration="158000" />
+      <workItem from="1667579626288" duration="20000" />
+      <workItem from="1667580090803" duration="806000" />
+      <workItem from="1667627909532" duration="1243000" />
+      <workItem from="1678605295745" duration="139000" />
+      <workItem from="1678614295432" duration="5000" />
+      <workItem from="1679725630533" duration="1153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1665827260464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1665827260464" />
+  </component>
+</project>
