@@ -93,7 +93,7 @@ header{
 }
 .header-btn:hover{
    background-color: #fff;
-    color: #ed4c5c;
+    color: black;
     transition: 0.6s;
 }
 .header-select{
@@ -134,7 +134,7 @@ header{
 }
 .hero-btn:hover{
     background-color: #fff;
-    color: #ed4c5c;
+    color: black;
     transition: 0.6s;
 }
 
@@ -161,7 +161,7 @@ header{
     font-weight: 400;
     font-size: 14px;
     line-height: 140%;
-    color: #ED4C5C;
+    color: black;
     text-decoration: none;
 }
 .video{
@@ -170,7 +170,7 @@ header{
 .video-play{
     width: 66px;
     height: 66px;
-   background-color: #ed4c5c;
+   background-color: black;
     position: absolute;
     border-radius: 50%;
     display: flex;
@@ -185,7 +185,7 @@ header{
     position: relative;
 }
 .video-play:hover{
-    background: red;
+    background: black;
     transition: 0.6s;
 }
 /*video*/
@@ -222,7 +222,7 @@ header{
     font-weight: 400;
     font-size: 12px;
     line-height: 150%;
-    color: #ED4C5C;
+    color: black;
     text-decoration: none;
     text-transform: capitalize;
 
@@ -290,7 +290,7 @@ header{
 /*features*/
 
 .focused{
-background: #ED4C5C;
+background: black;
     padding: 94px 165px;
 }
 .focused-title{
@@ -370,7 +370,7 @@ width: 100%;
 .contact-btn{
     padding: 17px 34px;
     border-radius: 6px;
-    background: #ED4C5C;
+    background: black;
     border: none;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -382,9 +382,9 @@ width: 100%;
 }
 .contact-btn:hover{
     background-color: #fff;
-    color: #ed4c5c;
+    color: black;
     transition: 0.6s;
-    border: 1px solid #ed4c5c;
+    border: 1px solid black;
 
 }
 .first-name{
